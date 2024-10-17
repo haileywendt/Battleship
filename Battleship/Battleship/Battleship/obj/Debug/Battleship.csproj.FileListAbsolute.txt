@@ -1,0 +1,30 @@
+C:\Users\Kento Akazawa\OneDrive\2022 Fall\Data Structure & Algorithms 1\Battleship\Battleship\obj\Debug\Battleship.csproj.AssemblyReference.cache
+C:\Users\Kento Akazawa\OneDrive\2022 Fall\Data Structure & Algorithms 1\Battleship\Battleship\obj\Debug\Battleship.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kento Akazawa\OneDrive\2022 Fall\Data Structure & Algorithms 1\Battleship\Battleship\obj\Debug\Battleship.Properties.Resources.resources
+C:\Users\Kento Akazawa\OneDrive\2022 Fall\Data Structure & Algorithms 1\Battleship\Battleship\obj\Debug\Battleship.csproj.GenerateResource.cache
+C:\Users\Kento Akazawa\OneDrive\2022 Fall\Data Structure & Algorithms 1\Battleship\Battleship\obj\Debug\Battleship.csproj.CoreCompileInputs.cache
+C:\Users\Kento Akazawa\OneDrive\2022 Fall\Data Structure & Algorithms 1\Battleship\Battleship\bin\Debug\Battleship.exe.config
+C:\Users\Kento Akazawa\OneDrive\2022 Fall\Data Structure & Algorithms 1\Battleship\Battleship\bin\Debug\Battleship.exe
+C:\Users\Kento Akazawa\OneDrive\2022 Fall\Data Structure & Algorithms 1\Battleship\Battleship\bin\Debug\Battleship.pdb
+C:\Users\Kento Akazawa\OneDrive\2022 Fall\Data Structure & Algorithms 1\Battleship\Battleship\obj\Debug\Battleship.Computer.resources
+C:\Users\Kento Akazawa\OneDrive\2022 Fall\Data Structure & Algorithms 1\Battleship\Battleship\obj\Debug\Battleship.Player.resources
+C:\Users\Kento Akazawa\OneDrive\2022 Fall\Data Structure & Algorithms 1\Battleship\Battleship\obj\Debug\Battleship.Start.resources
+C:\Users\Kento Akazawa\OneDrive\2022 Fall\Data Structure & Algorithms 1\Battleship\Battleship\obj\Debug\Battleship.exe
+C:\Users\Kento Akazawa\OneDrive\2022 Fall\Data Structure & Algorithms 1\Battleship\Battleship\obj\Debug\Battleship.pdb
+C:\Users\Kento Akazawa\OneDrive\2022 Fall\Data Structure & Algorithms 1\Battleship\Battleship\obj\Debug\Battleship.GameOver.resources
+C:\Users\Kento Akazawa\OneDrive\2022 Fall\Data Structure & Algorithms 1\Battleship\Battleship\obj\Debug\Battleship.Options.resources
+C:\Users\Kento Akazawa\OneDrive\2022 Fall\Software Engineering\Battleship\Battleship\bin\Debug\Battleship.exe.config
+C:\Users\Kento Akazawa\OneDrive\2022 Fall\Software Engineering\Battleship\Battleship\bin\Debug\Battleship.exe
+C:\Users\Kento Akazawa\OneDrive\2022 Fall\Software Engineering\Battleship\Battleship\bin\Debug\Battleship.pdb
+C:\Users\Kento Akazawa\OneDrive\2022 Fall\Software Engineering\Battleship\Battleship\obj\Debug\Battleship.csproj.AssemblyReference.cache
+C:\Users\Kento Akazawa\OneDrive\2022 Fall\Software Engineering\Battleship\Battleship\obj\Debug\Battleship.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kento Akazawa\OneDrive\2022 Fall\Software Engineering\Battleship\Battleship\obj\Debug\Battleship.Computer.resources
+C:\Users\Kento Akazawa\OneDrive\2022 Fall\Software Engineering\Battleship\Battleship\obj\Debug\Battleship.GameOver.resources
+C:\Users\Kento Akazawa\OneDrive\2022 Fall\Software Engineering\Battleship\Battleship\obj\Debug\Battleship.Options.resources
+C:\Users\Kento Akazawa\OneDrive\2022 Fall\Software Engineering\Battleship\Battleship\obj\Debug\Battleship.Player.resources
+C:\Users\Kento Akazawa\OneDrive\2022 Fall\Software Engineering\Battleship\Battleship\obj\Debug\Battleship.Properties.Resources.resources
+C:\Users\Kento Akazawa\OneDrive\2022 Fall\Software Engineering\Battleship\Battleship\obj\Debug\Battleship.Start.resources
+C:\Users\Kento Akazawa\OneDrive\2022 Fall\Software Engineering\Battleship\Battleship\obj\Debug\Battleship.csproj.GenerateResource.cache
+C:\Users\Kento Akazawa\OneDrive\2022 Fall\Software Engineering\Battleship\Battleship\obj\Debug\Battleship.csproj.CoreCompileInputs.cache
+C:\Users\Kento Akazawa\OneDrive\2022 Fall\Software Engineering\Battleship\Battleship\obj\Debug\Battleship.exe
+C:\Users\Kento Akazawa\OneDrive\2022 Fall\Software Engineering\Battleship\Battleship\obj\Debug\Battleship.pdb
